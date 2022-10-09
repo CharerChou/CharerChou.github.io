@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>递归（栈）</title>
+      <link href="/2022/10/09/%E9%80%92%E5%BD%92/"/>
+      <url>/2022/10/09/%E9%80%92%E5%BD%92/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一道递归题目"><a href="#一道递归题目" class="headerlink" title="一道递归题目"></a>一道递归题目</h1><p>题目：请用递归的方法输出。</p><p>实例：输入：12345</p><p>​          输出：1 2 3 4 5</p><p>这是上午c++课上老师出的题。一想到递归，我整个人就蒙圈了。原来用循环就能轻松解决的，用递归好像很难在脑海中模拟。课上讲了栈的知识，那是不是可以用栈的知识解决呢？</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbedIMG_20221009_143100.jpg"></p><p>以上是用栈表示本题递归思路。</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">splitNum</span><span class="params">(<span class="type">unsigned</span> <span class="type">int</span> n)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(n&gt;<span class="number">9</span>)<span class="comment">//只要不是一位数就执行</span></span><br><span class="line">        <span class="built_in">splitNum</span>(n/<span class="number">10</span>);</span><br><span class="line">    cout&lt;&lt;n%<span class="number">10</span>&lt;&lt;<span class="string">&quot; &quot;</span>;<span class="comment">//当是一位数时结束递归，开始一层一层向上继续本行的取末位</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">unsigned</span> n;</span><br><span class="line">    cin&gt;&gt;n;</span><br><span class="line">    <span class="built_in">splitNum</span>(n);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>本题难理解的点就是递归时没有返回值，而是在递归处中断，当递归结束时才继续每一层的后续操作。</p><p>要多复习啊</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 递归 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>introduction</title>
       <link href="/2022/10/05/introduction/"/>
       <url>/2022/10/05/introduction/</url>
@@ -15,25 +34,6 @@
         <tags>
             
             <tag> 前言 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>picture_text</title>
-      <link href="/2022/10/04/picture-text/"/>
-      <url>/2022/10/04/picture-text/</url>
-      
-        <content type="html"><![CDATA[<h2 id="picture"><a href="#picture" class="headerlink" title="picture"></a>picture</h2><p>没错，正如你所见，截至目前，我是一个op</p><p>正常玩一个游戏有什么错吗😒</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed1.jpg"></p><p>为什么要搞我！！！！</p><p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202105%2F03%2F20210503120135_3451d.thumb.1000_0.jpg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1667476841&t=22a878def53d76825cfff974b2843d25"></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> picture </tag>
             
         </tags>
       
