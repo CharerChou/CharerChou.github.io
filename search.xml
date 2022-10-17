@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>数电重点知识</title>
+      <link href="/2022/10/17/%E6%95%B0%E7%94%B5%E9%87%8D%E7%82%B9%E7%9F%A5%E8%AF%86/"/>
+      <url>/2022/10/17/%E6%95%B0%E7%94%B5%E9%87%8D%E7%82%B9%E7%9F%A5%E8%AF%86/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一些数电的难点重点"><a href="#一些数电的难点重点" class="headerlink" title="一些数电的难点重点"></a>一些数电的难点重点</h1><p>一：</p><p>思考题：若将 TTL 异或门（输入端为 A、B）当作反相器使用，则 A、B 端应如何连接？</p><p>A或B接1或悬空</p><p>解析：异或门，即相异为真，相同为假。若想要输出与输入相异，则两个输入之一应当为1（TTL门电路输入的一端悬空，即无输入时默认为1）。试想一下，若A输入固定为1，另一端B为0时，两者相异，输出1。输出与输入B相反。当B为1时，A与B相同，输出0。输出与输入B相反。</p><p>下图还有同相器（应该这么叫，即输出与输入相同）</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed0CD9416EFB1F5B91F9530CB788773ED7.jpg" alt="img"></p><p>二：</p><p>全加器。以下为全加器电路图</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed19261C5EC303E8638A920A825D7EA8C8.jpg"></p><p>以下为该电路图的逻辑式<img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbedE1536DE61ECB424A0E6500AFC567538B.jpg" alt="img"></p><p>以下为对应的真值表</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed41B959FDC99A2B34066CBE66C2CB2A62.png" alt="img"></p><p>现在对该逻辑电路进行功能分析：该逻辑电路为全加器，可以看作对一个<font color="orange">二进制位</font>的输出判断，A为加数，B为被加数，CI为相邻的低位进过来的数，S为本位的和，CO为向相邻的高位进的数。</p><p>以最后一行为例，A&#x3D;1,B&#x3D;1,CI&#x3D;1，先将被加数与加数求和，和为0（此时已向相邻的高位进了1，故CO&#x3D;1）加上相邻的低位进过来的数CI&#x3D;1，此时该二进制位的数为1,即本位的和S&#x3D;1。</p><p>再以倒数第二行为例，A&#x3D;1,B&#x3D;1,CI&#x3D;0，先将被加数与加数求和，和为0（此时已向相邻的高位进了1，故CO&#x3D;1）加上相邻的低位进过来的数CI&#x3D;0，此时该二进制位的数为1,即本位的和S&#x3D;0。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 数电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>递归（栈）</title>
       <link href="/2022/10/09/%E9%80%92%E5%BD%92/"/>
       <url>/2022/10/09/%E9%80%92%E5%BD%92/</url>
