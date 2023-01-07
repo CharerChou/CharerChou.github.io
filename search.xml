@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明任务栏</title>
+      <link href="/2023/01/07/%E9%80%8F%E6%98%8E%E4%BB%BB%E5%8A%A1%E6%A0%8F/"/>
+      <url>/2023/01/07/%E9%80%8F%E6%98%8E%E4%BB%BB%E5%8A%A1%E6%A0%8F/</url>
+      
+        <content type="html"><![CDATA[<p>透明任务栏</p><p>在微软商店Microsoft Store 下载translucentTB</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-07%20131215.png" alt="屏幕截图 2023-01-07 131215"></p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-07%20131305.png" alt="屏幕截图 2023-01-07 131305"></p><p>win11开发版本更新后，任务栏透明工具translucentTB突然不管用了，在b站网友的指引下，我找到了github的开发者教程下的评论。</p><p>简单概括来如下：</p><p>1.下载ViVeTool GUI</p><p>2.点击左上角的框，选择25236<img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-07%20130135.png" alt="屏幕截图 2023-01-07 130135"></p><p>3.点击Manually change a Feature (F12)，输入26008830<img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-07%20130700.png" alt="屏幕截图 2023-01-07 130700"></p><p>4.点击右侧Perforn Action ,点击Deactivated Feature<img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-07%20130750.png" alt="屏幕截图 2023-01-07 130750"></p><p>5.关闭窗口，重启计算机。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数电重点知识</title>
       <link href="/2022/10/17/%E6%95%B0%E7%94%B5%E9%87%8D%E7%82%B9%E7%9F%A5%E8%AF%86/"/>
       <url>/2022/10/17/%E6%95%B0%E7%94%B5%E9%87%8D%E7%82%B9%E7%9F%A5%E8%AF%86/</url>
