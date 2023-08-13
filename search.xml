@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>vscode配置</title>
+      <link href="/2023/08/13/vscode%E9%85%8D%E7%BD%AE/"/>
+      <url>/2023/08/13/vscode%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<p> 本文用于记录vscode配置数据</p><h1 id="1-基础配置"><a href="#1-基础配置" class="headerlink" title="1.基础配置"></a>1.基础配置</h1><p>参照<a href="https://www.bilibili.com/video/BV1Cu411y7vT/?spm_id_from=333.337.search-card.all.click&vd_source=0875a89ce3e551ffadbd073e593b6329">【教程】VScode中配置C语言&#x2F;C++运行环境_哔哩哔哩_bilibili</a></p><h1 id="2-插件配置"><a href="#2-插件配置" class="headerlink" title="2.插件配置"></a>2.插件配置</h1><p>参照<a href="https://www.bilibili.com/video/BV1Hd4y1o7CN/?spm_id_from=333.880.my_history.page.click&vd_source=0875a89ce3e551ffadbd073e593b6329">【教程】vscode优化体验篇（推荐设置 &amp;&amp; 推荐插件）_哔哩哔哩_bilibili</a></p><h1 id="3-插件优化"><a href="#3-插件优化" class="headerlink" title="3.插件优化"></a>3.插件优化</h1><p>在2中的Code Runner插件在使用时会出现中文字符乱码、无法弹出外部终端的情况，解决方法如下：</p><h2 id="1-在扩展栏中找到Code-Runner，点击齿轮标志，点击扩展设置"><a href="#1-在扩展栏中找到Code-Runner，点击齿轮标志，点击扩展设置" class="headerlink" title="1.在扩展栏中找到Code Runner，点击齿轮标志，点击扩展设置"></a>1.在扩展栏中找到Code Runner，点击齿轮标志，点击扩展设置</h2><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-13%20194139.png" alt="屏幕截图 2023-08-13 194139"></p><h2 id="2-在打开的页面中点击如下图所示的选项"><a href="#2-在打开的页面中点击如下图所示的选项" class="headerlink" title="2.在打开的页面中点击如下图所示的选项"></a>2.在打开的页面中点击如下图所示的选项</h2><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-13%20194347.png" alt="屏幕截图 2023-08-13 194347"></p><h2 id="3-找到如下图所示的两行，将其替换为如图所示的语句。（图后附代码）"><a href="#3-找到如下图所示的两行，将其替换为如图所示的语句。（图后附代码）" class="headerlink" title="3.找到如下图所示的两行，将其替换为如图所示的语句。（图后附代码）"></a>3.找到如下图所示的两行，将其替换为如图所示的语句。（图后附代码）</h2><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-13%20194754.png" alt="屏幕截图 2023-08-13 194754"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&quot;c&quot;: &quot;cd $dir &amp;&amp; gcc -fexec-charset=GBK $fileName -o $fileNameWithoutExt &amp;&amp; start cmd \&quot;/c ; $fileNameWithoutExt &amp;pause\&quot;&quot;</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&quot;cpp&quot;: &quot;cd $dir &amp;&amp; g++ -fexec-charset=GBK $fileName -o $fileNameWithoutExt &amp;&amp; start cmd \&quot;/c ; $fileNameWithoutExt &amp;pause\&quot;&quot;</span><br></pre></td></tr></table></figure><h2 id="4-完成"><a href="#4-完成" class="headerlink" title="4.完成"></a>4.完成</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> vscode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>考研信息</title>
       <link href="/2023/07/21/%E8%80%83%E7%A0%94%E4%BF%A1%E6%81%AF/"/>
       <url>/2023/07/21/%E8%80%83%E7%A0%94%E4%BF%A1%E6%81%AF/</url>
