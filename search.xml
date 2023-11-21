@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>修改网页内容</title>
+      <link href="/2023/11/21/%E4%BF%AE%E6%94%B9%E7%BD%91%E9%A1%B5%E5%86%85%E5%AE%B9/"/>
+      <url>/2023/11/21/%E4%BF%AE%E6%94%B9%E7%BD%91%E9%A1%B5%E5%86%85%E5%AE%B9/</url>
+      
+        <content type="html"><![CDATA[<p>交截图小技巧</p><h1 id="1-网页右键，点击检查（edge浏览器）"><a href="#1-网页右键，点击检查（edge浏览器）" class="headerlink" title="1.网页右键，点击检查（edge浏览器）"></a>1.网页右键，点击检查（edge浏览器）</h1><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-21%20170332.png" alt="屏幕截图 2023-11-21 170332"></p><h1 id="2-点击控制台"><a href="#2-点击控制台" class="headerlink" title="2.点击控制台"></a>2.点击控制台</h1><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-21%20170838.png" alt="屏幕截图 2023-11-21 170838"></p><h1 id="3-输入以下指令"><a href="#3-输入以下指令" class="headerlink" title="3.输入以下指令"></a>3.输入以下指令</h1><p><code>document.body.contentEditable=&#39;true&#39;;</code></p><p>回车</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-21%20171106.png" alt="屏幕截图 2023-11-21 171106"></p><h1 id="4-完成后即可随意修改网页界面内容"><a href="#4-完成后即可随意修改网页界面内容" class="headerlink" title="4.完成后即可随意修改网页界面内容"></a>4.完成后即可随意修改网页界面内容</h1><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-21%20171234.png" alt="屏幕截图 2023-11-21 171234"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>退出win11预览体验计划</title>
       <link href="/2023/11/09/%E9%80%80%E5%87%BAwin11%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92/"/>
       <url>/2023/11/09/%E9%80%80%E5%87%BAwin11%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92/</url>
