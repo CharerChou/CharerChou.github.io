@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Android端使用shell命令安装apk</title>
+      <link href="/2024/01/03/Android%E7%AB%AF%E4%BD%BF%E7%94%A8shell%E5%91%BD%E4%BB%A4%E5%AE%89%E8%A3%85apk/"/>
+      <url>/2024/01/03/Android%E7%AB%AF%E4%BD%BF%E7%94%A8shell%E5%91%BD%E4%BB%A4%E5%AE%89%E8%A3%85apk/</url>
+      
+        <content type="html"><![CDATA[<p>安卓端进行shell命令静默安装时会报错：</p><p>Cannot run program “pm “: error&#x3D;13, Permission denied</p><p>解决方法：</p><p>将文件拷贝到&#x2F;data&#x2F;local&#x2F;tmp&#x2F;下再进行安装</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbedA5C1AA86B9B08F1790BD7CEFB861571A.jpg" alt="A5C1AA86B9B08F1790BD7CEFB861571A"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>下载留档</title>
       <link href="/2023/12/14/%E4%B8%8B%E8%BD%BD%E7%95%99%E6%A1%A3/"/>
       <url>/2023/12/14/%E4%B8%8B%E8%BD%BD%E7%95%99%E6%A1%A3/</url>
