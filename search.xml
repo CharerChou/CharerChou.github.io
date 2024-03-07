@@ -4,11 +4,30 @@
   
     
     <entry>
+      <title>博客设置</title>
+      <link href="/2024/03/07/%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE/"/>
+      <url>/2024/03/07/%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="文章置顶设置"><a href="#文章置顶设置" class="headerlink" title="文章置顶设置"></a>文章置顶设置</h1><p>在文章的front-matter区域里添加</p><p>sticky: 1属性 来把这篇文章置顶。数值越大，置顶的优先级越大。</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-07%20205539.png" alt="屏幕截图 2024-03-07 205539"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 博客设置 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>front-matter设置</title>
       <link href="/2024/03/07/front-matter%E8%AE%BE%E7%BD%AE/"/>
       <url>/2024/03/07/front-matter%E8%AE%BE%E7%BD%AE/</url>
       
-        <content type="html"><![CDATA[<p>front-matter即typora中分隔线上方的配置文字，如下图</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-07%20210253.png" alt="屏幕截图 2024-03-07 210253"></p><h1 id="front-matter默认配置文字的种类设置"><a href="#front-matter默认配置文字的种类设置" class="headerlink" title="front-matter默认配置文字的种类设置"></a>front-matter默认配置文字的种类设置</h1><p>在下图文件夹下名为post 的 markdown文件</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-07%20205737.png" alt="屏幕截图 2024-03-07 205737"></p><h1 id="文章置顶设置"><a href="#文章置顶设置" class="headerlink" title="文章置顶设置"></a>文章置顶设置</h1><p>在文章的front-matter区域里添加</p><p>sticky: 1属性 来把这篇文章置顶。数值越大，置顶的优先级越大。</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-07%20205539.png" alt="屏幕截图 2024-03-07 205539"></p>]]></content>
+        <content type="html"><![CDATA[<p>front-matter即typora中分隔线上方的配置文字，如下图</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-07%20210253.png" alt="屏幕截图 2024-03-07 210253"></p><h1 id="front-matter默认配置文字的种类设置"><a href="#front-matter默认配置文字的种类设置" class="headerlink" title="front-matter默认配置文字的种类设置"></a>front-matter默认配置文字的种类设置</h1><p>在下图文件夹下名为post 的 markdown文件</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-07%20205737.png" alt="屏幕截图 2024-03-07 205737"></p>]]></content>
       
       
       
