@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>win11任务栏卡顿解决</title>
+      <link href="/2024/03/08/win11%E4%BB%BB%E5%8A%A1%E6%A0%8F%E5%8D%A1%E9%A1%BF%E8%A7%A3%E5%86%B3/"/>
+      <url>/2024/03/08/win11%E4%BB%BB%E5%8A%A1%E6%A0%8F%E5%8D%A1%E9%A1%BF%E8%A7%A3%E5%86%B3/</url>
+      
+        <content type="html"><![CDATA[<p>win11最近经常出现开机转圈加载久，进系统后任务栏加载慢的情况。</p><p>在网上和网友讨论后发现了断开网络重启后就不会出现这种问题</p><p><img src="https://zjhimgbed.oss-cn-hangzhou.aliyuncs.com/zjhimgbeda68903566031d6f78316a35a6a045c2b.jpg" alt="a68903566031d6f78316a35a6a045c2b"></p><p>但是，每次断开网络很麻烦，于是就想到了禁用windows资源管理器的网络权限（桌面、状态栏等和windows资源管理器有关）</p><p>具体禁用方法如下：</p><p> <a href="https://b23.tv/CVxPF9U">https://b23.tv/CVxPF9U</a></p><p>选择程序时选择”C:\Windows\explorer.exe”</p><p>重启后发现问题解决</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> win11 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客设置</title>
       <link href="/2024/03/07/%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE/"/>
       <url>/2024/03/07/%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE/</url>
