@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Word插入图片</title>
+      <link href="/2025/05/09/Word%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/"/>
+      <url>/2025/05/09/Word%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/</url>
+      
+        <content type="html"><![CDATA[<p>在Word插入图片时图片总是格式奇形怪状（如下图），现给出解决方案：</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-09%20001144.png" alt="屏幕截图 2025-05-09 001144"></p><h1 id="1-在要插入的地方回车换行，在新的一行插入图片，点击红色箭头处，选择嵌入型"><a href="#1-在要插入的地方回车换行，在新的一行插入图片，点击红色箭头处，选择嵌入型" class="headerlink" title="1.在要插入的地方回车换行，在新的一行插入图片，点击红色箭头处，选择嵌入型"></a>1.在要插入的地方回车换行，在新的一行插入图片，点击红色箭头处，选择嵌入型<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/1%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-09%20001155.png" alt="1屏幕截图 2025-05-09 001155"></h1><h1 id="2-右键蓝色箭头处（一般是右侧蓝色箭头）点击段落打开段落设置界面"><a href="#2-右键蓝色箭头处（一般是右侧蓝色箭头）点击段落打开段落设置界面" class="headerlink" title="2.右键蓝色箭头处（一般是右侧蓝色箭头）点击段落打开段落设置界面"></a>2.右键蓝色箭头处（一般是右侧蓝色箭头）点击段落打开段落设置界面</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-09%20001232.png" alt="屏幕截图 2025-05-09 001232"></p><h1 id="3-设置行距为“单倍行距”即可"><a href="#3-设置行距为“单倍行距”即可" class="headerlink" title="3.设置行距为“单倍行距”即可"></a>3.设置行距为“单倍行距”即可</h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>摄像头打不开</title>
+      <link href="/2024/03/15/%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%93%E4%B8%8D%E5%BC%80/"/>
+      <url>/2024/03/15/%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%93%E4%B8%8D%E5%BC%80/</url>
+      
+        <content type="html"><![CDATA[<p>摄像头经常出现打不开的情况</p><p>错误代码 0xA00F429F 或者 错误代码 0xA00F4244</p><p>本人经历了以上两种情况，解决并总结了经验。</p><p>解决方法如下：</p><h1 id="1-win11-右键开始图标，点击设备管理器"><a href="#1-win11-右键开始图标，点击设备管理器" class="headerlink" title="1.win11 右键开始图标，点击设备管理器"></a>1.win11 右键开始图标，点击设备管理器</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-15%20102743.png" alt="屏幕截图 2024-03-15 102743"></p><h1 id="2-找到照相机，右键卸载设备"><a href="#2-找到照相机，右键卸载设备" class="headerlink" title="2.找到照相机，右键卸载设备"></a>2.找到照相机，右键卸载设备</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-15%20103739.png" alt="屏幕截图 2024-03-15 103739"></p><h1 id="3-卸载后可能出现照相机设备消失的情况，右键根目录（电脑名称），扫描检测硬件改动（可能还需要去电脑官网下载照相机驱动）"><a href="#3-卸载后可能出现照相机设备消失的情况，右键根目录（电脑名称），扫描检测硬件改动（可能还需要去电脑官网下载照相机驱动）" class="headerlink" title="3.卸载后可能出现照相机设备消失的情况，右键根目录（电脑名称），扫描检测硬件改动（可能还需要去电脑官网下载照相机驱动）"></a>3.卸载后可能出现照相机设备消失的情况，右键根目录（电脑名称），扫描检测硬件改动（可能还需要去电脑官网下载照相机驱动）</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-15%20104039.png" alt="屏幕截图 2024-03-15 104039"></p><h1 id="4-发现照相机设备已经恢复正常。"><a href="#4-发现照相机设备已经恢复正常。" class="headerlink" title="4.发现照相机设备已经恢复正常。"></a>4.发现照相机设备已经恢复正常。</h1><p><img src="/2024/03/15/%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%93%E4%B8%8D%E5%BC%80/image-20250410173712370.png" alt="image-20250410173712370"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> windows问题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>win11任务栏卡顿解决</title>
+      <link href="/2024/03/08/win11%E4%BB%BB%E5%8A%A1%E6%A0%8F%E5%8D%A1%E9%A1%BF%E8%A7%A3%E5%86%B3/"/>
+      <url>/2024/03/08/win11%E4%BB%BB%E5%8A%A1%E6%A0%8F%E5%8D%A1%E9%A1%BF%E8%A7%A3%E5%86%B3/</url>
+      
+        <content type="html"><![CDATA[<p>win11 最近经常出现开机转圈加载久，进系统后任务栏加载慢的情况。</p><p>在网上和网友讨论后发现了断开网络重启后就不会出现这种问题</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbeda68903566031d6f78316a35a6a045c2b.jpg" alt="a68903566031d6f78316a35a6a045c2b"></p><p>但是，每次断开网络很麻烦，于是就想到了禁用 windows 资源管理器的网络权限（桌面、状态栏等和 windows 资源管理器有关）</p><p>具体禁用方法如下：</p><p><a href="https://b23.tv/CVxPF9U">https://b23.tv/CVxPF9U</a></p><p>选择程序时选择”C:\Windows\explorer.exe”</p><p>重启后发现问题解决</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> win11 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博客设置</title>
+      <link href="/2024/03/07/%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE/"/>
+      <url>/2024/03/07/%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="文章置顶设置"><a href="#文章置顶设置" class="headerlink" title="文章置顶设置"></a>文章置顶设置</h1><p>在文章的 front-matter 区域里添加</p><p>sticky: 1 属性 来把这篇文章置顶。数值越大，置顶的优先级越大。</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-07%20205539.png" alt="屏幕截图 2024-03-07 205539"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 博客设置 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>front-matter设置</title>
+      <link href="/2024/03/07/front-matter%E8%AE%BE%E7%BD%AE/"/>
+      <url>/2024/03/07/front-matter%E8%AE%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<p>front-matter 即 typora 中分隔线上方的配置文字，如下图</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-07%20210253.png" alt="屏幕截图 2024-03-07 210253"></p><h1 id="front-matter-默认配置文字的种类设置"><a href="#front-matter-默认配置文字的种类设置" class="headerlink" title="front-matter 默认配置文字的种类设置"></a>front-matter 默认配置文字的种类设置</h1><p>在下图文件夹下名为 post 的 markdown 文件</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-07%20205737.png" alt="屏幕截图 2024-03-07 205737"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 博客设置 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>推特登录异常解决方法</title>
+      <link href="/2024/01/28/%E6%8E%A8%E7%89%B9%E7%99%BB%E5%BD%95%E5%BC%82%E5%B8%B8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+      <url>/2024/01/28/%E6%8E%A8%E7%89%B9%E7%99%BB%E5%BD%95%E5%BC%82%E5%B8%B8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<p>推特账号会出现异常</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed72C2C34B3482CA1050C827DDB803790C.jpg" alt="72C2C34B3482CA1050C827DDB803790C"></p><h1 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h1><h2 id="1-登录界面点击忘记密码、修改密码即可"><a href="#1-登录界面点击忘记密码、修改密码即可" class="headerlink" title="1.登录界面点击忘记密码、修改密码即可"></a>1.登录界面点击忘记密码、修改密码即可</h2><h2 id="2-清除浏览器数据"><a href="#2-清除浏览器数据" class="headerlink" title="2.清除浏览器数据"></a>2.清除浏览器数据</h2><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed1708822405382.jpg" alt="1708822405382"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其它 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>小米rom下载慢</title>
+      <link href="/2024/01/04/%E5%B0%8F%E7%B1%B3rom%E4%B8%8B%E8%BD%BD%E6%85%A2/"/>
+      <url>/2024/01/04/%E5%B0%8F%E7%B1%B3rom%E4%B8%8B%E8%BD%BD%E6%85%A2/</url>
+      
+        <content type="html"><![CDATA[<p>小米对 rom 下载进行了速度限制</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-04%20135710.png" alt="屏幕截图 2024-01-04 135710"></p><h1 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h1><p>将下载链接复制到小米设备内置下载器</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed4C98022312D246637C8098679D40FE15.jpg" alt="4C98022312D246637C8098679D40FE15"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed07B35EF48722CA9945C71434EF1DCCA2.jpg" alt="07B35EF48722CA9945C71434EF1DCCA2"></p><p>可以看到下载速度恢复到正常水平</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed954AFDA58564BAF7342685218D584059.jpg" alt="954AFDA58564BAF7342685218D584059"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 搞机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Android端使用shell命令安装apk</title>
+      <link href="/2024/01/03/Android%E7%AB%AF%E4%BD%BF%E7%94%A8shell%E5%91%BD%E4%BB%A4%E5%AE%89%E8%A3%85apk/"/>
+      <url>/2024/01/03/Android%E7%AB%AF%E4%BD%BF%E7%94%A8shell%E5%91%BD%E4%BB%A4%E5%AE%89%E8%A3%85apk/</url>
+      
+        <content type="html"><![CDATA[<p>安卓端进行 shell 命令静默安装时会报错：</p><p>Cannot run program “pm “: error&#x3D;13, Permission denied</p><p>解决方法：</p><p>将文件拷贝到&#x2F;data&#x2F;local&#x2F;tmp&#x2F;下再进行安装</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedScreenshot_2025-02-12-17-05-45-892_com.jozein.xedgepro.jpg" alt="Screenshot_2025-02-12-17-05-45-892_com.jozein.xedgepro"><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedA5C1AA86B9B08F1790BD7CEFB861571A.jpg" alt="A5C1AA86B9B08F1790BD7CEFB861571A"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>下载留档</title>
+      <link href="/2023/12/14/%E4%B8%8B%E8%BD%BD%E7%95%99%E6%A1%A3/"/>
+      <url>/2023/12/14/%E4%B8%8B%E8%BD%BD%E7%95%99%E6%A1%A3/</url>
+      
+        <content type="html"><![CDATA[<h1 id="百度网盘"><a href="#百度网盘" class="headerlink" title="百度网盘"></a>百度网盘</h1><p>链接：<a href="https://pan.baidu.com/s/1DOwiKyGoGRL2hDUl6wu22Q?pwd=chou">https://pan.baidu.com/s/1DOwiKyGoGRL2hDUl6wu22Q?pwd=chou</a><br>提取码：chou</p><h1 id="123-网盘"><a href="#123-网盘" class="headerlink" title="123 网盘"></a>123 网盘</h1><p>链接：<a href="https://www.123pan.com/s/23C1jv-AtazH.html">https://www.123pan.com/s/23C1jv-AtazH.html</a></p><p>提取码：chou</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>修改网页内容</title>
+      <link href="/2023/11/21/%E4%BF%AE%E6%94%B9%E7%BD%91%E9%A1%B5%E5%86%85%E5%AE%B9/"/>
+      <url>/2023/11/21/%E4%BF%AE%E6%94%B9%E7%BD%91%E9%A1%B5%E5%86%85%E5%AE%B9/</url>
+      
+        <content type="html"><![CDATA[<p>交截图小技巧</p><h1 id="1-网页右键，点击检查（edge-浏览器）"><a href="#1-网页右键，点击检查（edge-浏览器）" class="headerlink" title="1.网页右键，点击检查（edge 浏览器）"></a>1.网页右键，点击检查（edge 浏览器）</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-21%20170332.png" alt="屏幕截图 2023-11-21 170332"></p><h1 id="2-点击控制台"><a href="#2-点击控制台" class="headerlink" title="2.点击控制台"></a>2.点击控制台</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-21%20170838.png" alt="屏幕截图 2023-11-21 170838"></p><h1 id="3-输入以下指令"><a href="#3-输入以下指令" class="headerlink" title="3.输入以下指令"></a>3.输入以下指令</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">document.body.contentEditable=&#x27;true&#x27;;</span><br></pre></td></tr></table></figure><p>回车</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-21%20171106.png" alt="屏幕截图 2023-11-21 171106"></p><h1 id="4-完成后即可随意修改网页界面内容"><a href="#4-完成后即可随意修改网页界面内容" class="headerlink" title="4.完成后即可随意修改网页界面内容"></a>4.完成后即可随意修改网页界面内容</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-21%20171234.png" alt="屏幕截图 2023-11-21 171234"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>退出win11预览体验计划</title>
+      <link href="/2023/11/09/%E9%80%80%E5%87%BAwin11%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92/"/>
+      <url>/2023/11/09/%E9%80%80%E5%87%BAwin11%E9%A2%84%E8%A7%88%E4%BD%93%E9%AA%8C%E8%AE%A1%E5%88%92/</url>
+      
+        <content type="html"><![CDATA[<p>按照下图做即可</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedC3453B87AADBC8974868A1E91B3CD659.jpg" alt="C3453B87AADBC8974868A1E91B3CD659"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> win11 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>远程桌面连接</title>
+      <link href="/2023/11/07/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E8%BF%9E%E6%8E%A5/"/>
+      <url>/2023/11/07/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E8%BF%9E%E6%8E%A5/</url>
+      
+        <content type="html"><![CDATA[<p>本人没有搞懂其中的原理，所以本文仅提供本人解决远程桌面连接时的参考资料</p><p>笔记本 WAN IP（校园网）：172.28.23.7 用户名：laptop-l4fans03\Charer Chou</p><p>虚拟机（临时）IP：172.23.74.120:6067 用户名：administrator</p><h1 id="1-家庭版-windows-开启远程桌面服务"><a href="#1-家庭版-windows-开启远程桌面服务" class="headerlink" title="1.家庭版 windows 开启远程桌面服务"></a>1.家庭版 windows 开启远程桌面服务</h1><p>win11 家庭版不提供远程桌面连接服务（只能连接其他设备，不能被其他设备连接），因此需要解决这个问题。以下是解决方法：</p><p><a href="https://zhuanlan.zhihu.com/p/600706130#%E6%A6%82%E8%A7%88">家庭版 Windows11 开启远程桌面被控 - 知乎 (zhihu.com)</a>（评论区有对应解决方案）</p><h1 id="2-不同局域网下的连接方法"><a href="#2-不同局域网下的连接方法" class="headerlink" title="2.不同局域网下的连接方法"></a>2.不同局域网下的连接方法</h1><p>参考资料<a href="https://blog.csdn.net/eacxzm/article/details/84672886">Windows 用自带工具远程登录不在同一局域网的主机_非局域网远程桌面连接-CSDN 博客</a></p><p>该文章中的端口映射即为 NAT 服务</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedimage-20231110115507691.png" alt="image-20231110115507691"></p><h1 id="3-获取用户名"><a href="#3-获取用户名" class="headerlink" title="3.获取用户名"></a>3.获取用户名</h1><p>在 powershell 或者 cmd 中输入指令 whoami</p><p>出现的一串字符即为用户名，密码是 Microsoft 密码（非 PIN）</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-10%20235713.png" alt="屏幕截图 2023-11-10 235713"></p><h1 id="4-一些情况的解决方法"><a href="#4-一些情况的解决方法" class="headerlink" title="4.一些情况的解决方法"></a>4.一些情况的解决方法</h1><p>有时在客机断开连接后，主机出现卡在锁屏首页，无法进入第二屏输入密码的情况。此时按下 ctrl+alt+del，即可进入第二屏输入密码解锁屏幕。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图片转pdf</title>
+      <link href="/2023/10/29/%E5%9B%BE%E7%89%87%E8%BD%ACpdf/"/>
+      <url>/2023/10/29/%E5%9B%BE%E7%89%87%E8%BD%ACpdf/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-选择要生成-pdf-文件的图片，并单击右键，选择打印"><a href="#1-选择要生成-pdf-文件的图片，并单击右键，选择打印" class="headerlink" title="1.选择要生成 pdf 文件的图片，并单击右键，选择打印"></a>1.选择要生成 pdf 文件的图片，并单击右键，选择打印</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-29%20144555.png" alt="屏幕截图 2023-10-29 144555"></p><h1 id="2-打印机（R）选项设置为-Microsoft-Print-to-PDF"><a href="#2-打印机（R）选项设置为-Microsoft-Print-to-PDF" class="headerlink" title="2.打印机（R）选项设置为 Microsoft Print to PDF"></a>2.打印机（R）选项设置为 Microsoft Print to PDF</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-29%20144618.png" alt="屏幕截图 2023-10-29 144618"></p><h1 id="3-点击右下角选项，并选择打印机属性"><a href="#3-点击右下角选项，并选择打印机属性" class="headerlink" title="3.点击右下角选项，并选择打印机属性"></a>3.点击右下角选项，并选择打印机属性<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-29%20144637.png" alt="屏幕截图 2023-10-29 144637"></h1><h1 id="4-在此处选择横向-x2F-纵向"><a href="#4-在此处选择横向-x2F-纵向" class="headerlink" title="4.在此处选择横向&#x2F;纵向"></a>4.在此处选择横向&#x2F;纵向</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-10-29%20144659.png" alt="屏幕截图 2023-10-29 144659"></p><h1 id="5-点击打印，选择输出位置即可"><a href="#5-点击打印，选择输出位置即可" class="headerlink" title="5.点击打印，选择输出位置即可"></a>5.点击打印，选择输出位置即可</h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>vscode配置</title>
+      <link href="/2023/08/13/vscode%E9%85%8D%E7%BD%AE/"/>
+      <url>/2023/08/13/vscode%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<p>本文用于记录 vscode 配置数据</p><h1 id="1-基础配置"><a href="#1-基础配置" class="headerlink" title="1.基础配置"></a>1.基础配置</h1><p>参照<a href="https://www.bilibili.com/video/BV1Cu411y7vT/?spm_id_from=333.337.search-card.all.click&vd_source=0875a89ce3e551ffadbd073e593b6329">【教程】VScode 中配置 C 语言&#x2F;C++运行环境_哔哩哔哩_bilibili</a></p><h1 id="2-插件配置"><a href="#2-插件配置" class="headerlink" title="2.插件配置"></a>2.插件配置</h1><p>参照<a href="https://www.bilibili.com/video/BV1Hd4y1o7CN/?spm_id_from=333.880.my_history.page.click&vd_source=0875a89ce3e551ffadbd073e593b6329">【教程】vscode 优化体验篇（推荐设置 &amp;&amp; 推荐插件）_哔哩哔哩_bilibili</a></p><h1 id="3-插件优化"><a href="#3-插件优化" class="headerlink" title="3.插件优化"></a>3.插件优化</h1><p>在 2 中的 Code Runner 插件在使用时会出现中文字符乱码、无法弹出外部终端的情况，解决方法如下：</p><h2 id="1-在扩展栏中找到-Code-Runner，点击齿轮标志，点击扩展设置"><a href="#1-在扩展栏中找到-Code-Runner，点击齿轮标志，点击扩展设置" class="headerlink" title="1.在扩展栏中找到 Code Runner，点击齿轮标志，点击扩展设置"></a>1.在扩展栏中找到 Code Runner，点击齿轮标志，点击扩展设置</h2><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-13%20194139.png" alt="屏幕截图 2023-08-13 194139"></p><h2 id="2-在打开的页面中点击如下图所示的选项"><a href="#2-在打开的页面中点击如下图所示的选项" class="headerlink" title="2.在打开的页面中点击如下图所示的选项"></a>2.在打开的页面中点击如下图所示的选项</h2><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-13%20194347.png" alt="屏幕截图 2023-08-13 194347"></p><h2 id="3-找到如下图所示的两行，将其替换为如图所示的语句。（图后附代码）"><a href="#3-找到如下图所示的两行，将其替换为如图所示的语句。（图后附代码）" class="headerlink" title="3.找到如下图所示的两行，将其替换为如图所示的语句。（图后附代码）"></a>3.找到如下图所示的两行，将其替换为如图所示的语句。（图后附代码）</h2><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-13%20194754.png" alt="屏幕截图 2023-08-13 194754"></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&quot;c&quot;: &quot;cd $dir &amp;&amp; gcc -fexec-charset=GBK $fileName -o $fileNameWithoutExt &amp;&amp; start cmd \&quot;/c ; $fileNameWithoutExt &amp;pause\&quot;&quot;</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&quot;cpp&quot;: &quot;cd $dir &amp;&amp; g++ -fexec-charset=GBK $fileName -o $fileNameWithoutExt &amp;&amp; start cmd \&quot;/c ; $fileNameWithoutExt &amp;pause\&quot;&quot;</span><br></pre></td></tr></table></figure><h2 id="4-完成"><a href="#4-完成" class="headerlink" title="4.完成"></a>4.完成</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> vscode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>考研信息</title>
+      <link href="/2023/07/21/%E8%80%83%E7%A0%94%E4%BF%A1%E6%81%AF/"/>
+      <url>/2023/07/21/%E8%80%83%E7%A0%94%E4%BF%A1%E6%81%AF/</url>
+      
+        <content type="html"><![CDATA[<p>本文用于存放考研相关信息</p><h1 id="考情信息："><a href="#考情信息：" class="headerlink" title="考情信息："></a>考情信息：</h1><p><a href="https://mp.weixin.qq.com/s?__biz=MzUyNTk1NjI5Nw==&mid=2247540755&idx=1&sn=9051693574991e5d4a469bac3e8bbef3&chksm=fa1445b5cd63cca324ac56c45e46a322b473cf011284d213ef1a16f1829794ea5196bbe40fd8&mpshare=1&scene=23&srcid=0307FPS6s1H03NqvgidrjjQZ&sharer_shareinfo=baf0ae870b8153042b539a89185167e0&sharer_shareinfo_first=baf0ae870b8153042b539a89185167e0#rd">计算机考研 128 所 408 院校 24 考研难度排行！</a></p><p><a href="https://mp.weixin.qq.com/s/8Bk00Z4CksG1ULEduT9sXA">计算机考研：433 所院校考情汇总 </a></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed7941c996e885f83e654ca006bb8439c2.png" alt="7941c996e885f83e654ca006bb8439c2"></p><h1 id="保研条件："><a href="#保研条件：" class="headerlink" title="保研条件："></a>保研条件：</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed850262241CABC77A64BE49CE42C85A5C.jpg" alt="850262241CABC77A64BE49CE42C85A5C"></p><h1 id="考研术语："><a href="#考研术语：" class="headerlink" title="考研术语："></a>考研术语：</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed_a1d6da26ae7e79773592688d883035a2_797834982_IMG_20230721_220211.jpg" alt="_a1d6da26ae7e79773592688d883035a2_797834982_IMG_20230721_220211"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed_4a0002832a6834ae1335b090325b5ae3_833852301_IMG_20230721_220229.jpg" alt="_4a0002832a6834ae1335b090325b5ae3_833852301_IMG_20230721_220229"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed_734f011a7e147fb54654c252616e7bc2_1716738377_IMG_20230721_220324.jpg" alt="_734f011a7e147fb54654c252616e7bc2_1716738377_IMG_20230721_220324"></p><h1 id="备考流程："><a href="#备考流程：" class="headerlink" title="备考流程："></a>备考流程：</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed_6730bffff12b8ba1cbf85dde19782492_-1657478482_IMG_20230721_220439.jpg" alt="_6730bffff12b8ba1cbf85dde19782492_-1657478482_IMG_20230721_220439"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed_232f345e309fac91a6f0938d9d238628_-859556338_IMG_20230721_220505.jpg" alt="_232f345e309fac91a6f0938d9d238628_-859556338_IMG_20230721_220505"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed_61fda470b9a1ce2859fea2d651a7b5fa_-777362969_IMG_20230721_220531.jpg" alt="_61fda470b9a1ce2859fea2d651a7b5fa_-777362969_IMG_20230721_220531"></p><h1 id="学习资料："><a href="#学习资料：" class="headerlink" title="学习资料："></a>学习资料：</h1><p>链接：<a href="https://pan.baidu.com/s/1LbVLmAhGgt7tmmitDEVmzQ">https://pan.baidu.com/s/1LbVLmAhGgt7tmmitDEVmzQ</a> 提取码：chou</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 考研 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>朔日考试系统Edge进入方法</title>
+      <link href="/2023/05/14/%E6%9C%94%E6%97%A5%E8%80%83%E8%AF%95%E7%B3%BB%E7%BB%9FEdge%E8%BF%9B%E5%85%A5%E6%96%B9%E6%B3%95/"/>
+      <url>/2023/05/14/%E6%9C%94%E6%97%A5%E8%80%83%E8%AF%95%E7%B3%BB%E7%BB%9FEdge%E8%BF%9B%E5%85%A5%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-打开-Edge-浏览器，打开右上角，点击设置。"><a href="#1-打开-Edge-浏览器，打开右上角，点击设置。" class="headerlink" title="1.打开 Edge 浏览器，打开右上角，点击设置。"></a>1.打开 Edge 浏览器，打开右上角，点击设置。<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-14%20165334.png" alt="屏幕截图 2023-05-14 165334"></h1><h1 id="2-点击左侧菜单栏的“默认浏览器”选项，将“让-Internet-Explorer-在-Microsoft-Edge-中打开网站”设置为“始终（推荐）”，将“允许在-Internet-Explorer-模式下重新加载网站-IE-模式-”设置为“允许”。"><a href="#2-点击左侧菜单栏的“默认浏览器”选项，将“让-Internet-Explorer-在-Microsoft-Edge-中打开网站”设置为“始终（推荐）”，将“允许在-Internet-Explorer-模式下重新加载网站-IE-模式-”设置为“允许”。" class="headerlink" title="2.点击左侧菜单栏的“默认浏览器”选项，将“让 Internet Explorer 在 Microsoft Edge 中打开网站”设置为“始终（推荐）”，将“允许在 Internet Explorer 模式下重新加载网站 (IE 模式)”设置为“允许”。"></a>2.点击左侧菜单栏的“默认浏览器”选项，将“让 Internet Explorer 在 Microsoft Edge 中打开网站”设置为“始终（推荐）”，将“允许在 Internet Explorer 模式下重新加载网站 (IE 模式)”设置为“允许”。<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-14%20165401.png" alt="屏幕截图 2023-05-14 165401"></h1><h1 id="3-点击左侧菜单栏的“外观”选项，将“Internet-Explorer-模式-IE-模式-按钮”打开。"><a href="#3-点击左侧菜单栏的“外观”选项，将“Internet-Explorer-模式-IE-模式-按钮”打开。" class="headerlink" title="3.点击左侧菜单栏的“外观”选项，将“Internet Explorer 模式 (IE 模式) 按钮”打开。"></a>3.点击左侧菜单栏的“外观”选项，将“Internet Explorer 模式 (IE 模式) 按钮”打开。<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-14%20165438.png" alt="屏幕截图 2023-05-14 165438"></h1><h1 id="4-关闭浏览器。"><a href="#4-关闭浏览器。" class="headerlink" title="4.关闭浏览器。"></a>4.关闭浏览器。</h1><h1 id="5-在桌面单击右键，点击新建，创建一个文本文档，并在其中粘贴以下内容，并保存、关闭。"><a href="#5-在桌面单击右键，点击新建，创建一个文本文档，并在其中粘贴以下内容，并保存、关闭。" class="headerlink" title="5.在桌面单击右键，点击新建，创建一个文本文档，并在其中粘贴以下内容，并保存、关闭。"></a>5.在桌面单击右键，点击新建，创建一个文本文档，并在其中粘贴以下内容，并保存、关闭。</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Windows Registry Editor Version 5.00</span><br><span class="line"></span><br><span class="line">[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers]</span><br><span class="line">&quot;C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe&quot;=&quot;~ RUNASADMIN&quot;</span><br><span class="line"></span><br><span class="line">[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers]</span><br><span class="line">&quot;C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe&quot;=&quot;~ RUNASADMIN&quot;</span><br></pre></td></tr></table></figure><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-14%20171325.png" alt="屏幕截图 2023-05-14 171325"></p><h1 id="6-将该文件后缀名改为“-reg”。"><a href="#6-将该文件后缀名改为“-reg”。" class="headerlink" title="6.将该文件后缀名改为“.reg”。"></a>6.将该文件后缀名改为“.reg”。</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedimage-20230514173259610.png" alt="image-20230514173259610"></p><h1 id="7-双击运行该文件。（弹出的提示框均点击确定）"><a href="#7-双击运行该文件。（弹出的提示框均点击确定）" class="headerlink" title="7.双击运行该文件。（弹出的提示框均点击确定）"></a>7.双击运行该文件。（弹出的提示框均点击确定）</h1><h1 id="8-打开-Edge-浏览器，在校园网下访问朔日科技网址http-172-31-0-139-WZHEDU"><a href="#8-打开-Edge-浏览器，在校园网下访问朔日科技网址http-172-31-0-139-WZHEDU" class="headerlink" title="8.打开 Edge 浏览器，在校园网下访问朔日科技网址http://172.31.0.139/WZHEDU/"></a>8.打开 Edge 浏览器，在校园网下访问朔日科技网址<a href="http://172.31.0.139/WZHEDU/">http://172.31.0.139/WZHEDU/</a></h1><h1 id><a href="#" class="headerlink" title></a><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-14%20165759.png" alt="屏幕截图 2023-05-14 165759"></h1><h1 id="9-点击图片上的按钮。"><a href="#9-点击图片上的按钮。" class="headerlink" title="9.点击图片上的按钮。"></a>9.点击图片上的按钮。<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-14%20165841.png" alt="屏幕截图 2023-05-14 165841"></h1><h1 id="10-在页面中点击“手工安装”，并下载（暂时不点安装）。"><a href="#10-在页面中点击“手工安装”，并下载（暂时不点安装）。" class="headerlink" title="10.在页面中点击“手工安装”，并下载（暂时不点安装）。"></a>10.在页面中点击“手工安装”，并下载（暂时不点安装）。<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-14%20170302.png" alt="屏幕截图 2023-05-14 170302"></h1><h1 id="11-关闭所有程序（包括浏览器、文件夹，否则安装环节会报错）打开安装程序，安装插件。"><a href="#11-关闭所有程序（包括浏览器、文件夹，否则安装环节会报错）打开安装程序，安装插件。" class="headerlink" title="11.关闭所有程序（包括浏览器、文件夹，否则安装环节会报错）打开安装程序，安装插件。"></a>11.关闭所有程序（包括浏览器、文件夹，否则安装环节会报错）打开安装程序，安装插件。<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-14%20170426.png" alt="屏幕截图 2023-05-14 170426"></h1><h1 id="12-安装完成后打开-Edge-浏览器，打开朔日科技网址http-172-31-0-139-WZHEDU"><a href="#12-安装完成后打开-Edge-浏览器，打开朔日科技网址http-172-31-0-139-WZHEDU" class="headerlink" title="12.安装完成后打开 Edge 浏览器，打开朔日科技网址http://172.31.0.139/WZHEDU/"></a>12.安装完成后打开 Edge 浏览器，打开朔日科技网址<a href="http://172.31.0.139/WZHEDU/">http://172.31.0.139/WZHEDU/</a></h1><h1 id="点击“检测插件”，提示无误后点击“返回登录”即可。"><a href="#点击“检测插件”，提示无误后点击“返回登录”即可。" class="headerlink" title="点击“检测插件”，提示无误后点击“返回登录”即可。"></a>点击“检测插件”，提示无误后点击“返回登录”即可。</h1><h1 id="-1"><a href="#-1" class="headerlink" title></a><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-14%20170302.png" alt="屏幕截图 2023-05-14 170302"></h1><h1 id="13-完成。（每次点开该网页后都要点击如图所示的图标）"><a href="#13-完成。（每次点开该网页后都要点击如图所示的图标）" class="headerlink" title="13.完成。（每次点开该网页后都要点击如图所示的图标）"></a>13.完成。（每次点开该网页后都要点击如图所示的图标）</h1><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-14%20165841.png" alt="屏幕截图 2023-05-14 165841"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网络测速</title>
+      <link href="/2023/02/19/%E7%BD%91%E7%BB%9C%E6%B5%8B%E9%80%9F/"/>
+      <url>/2023/02/19/%E7%BD%91%E7%BB%9C%E6%B5%8B%E9%80%9F/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://test.ustc.edu.cn/">中国科学技术大学测速网站 (ustc.edu.cn)</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>原神官服B服切换方法</title>
+      <link href="/2023/01/30/%E5%8E%9F%E7%A5%9E%E5%AE%98%E6%9C%8DB%E6%9C%8D%E5%88%87%E6%8D%A2%E6%96%B9%E6%B3%95/"/>
+      <url>/2023/01/30/%E5%8E%9F%E7%A5%9E%E5%AE%98%E6%9C%8DB%E6%9C%8D%E5%88%87%E6%8D%A2%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<p>原神官服 B 服切换方法</p><p>众所周知，原神官服 b 服不互通，这给有两个服的账号的玩家带来很多麻烦。解决方法有很多，可以分别下载官服与 b 服【这种方法不仅占用磁盘空间，而且会出现吞服的情况（后面会给出解释）】，也可以自行更改配置文件（这种方法比较麻烦，每次换服时都要更改配置文件，官服还会让重新输入账号密码）。</p><p>本人作为一名提瓦特人，深受其扰。</p><p>偶然的机会，我刷到 b 站的一个视频，灵感大发。我参考了这个视频<a href="https://www.bilibili.com/video/BV1mW4y117wo/?spm_id_from=333.999.top_right_bar_window_history.content.click&vd_source=0875a89ce3e551ffadbd073e593b6329">轻松自制原神双服转换器<em>哔哩哔哩 bilibili</em>原神</a>，并在此基础上进行了优化。</p><h1 id="一、电脑上现有官服原神（以官服为基础改造）"><a href="#一、电脑上现有官服原神（以官服为基础改造）" class="headerlink" title="一、电脑上现有官服原神（以官服为基础改造）"></a>一、电脑上现有官服原神（以官服为基础改造）</h1><h2 id="Ⅰ-傻瓜教程"><a href="#Ⅰ-傻瓜教程" class="headerlink" title="Ⅰ.傻瓜教程"></a>Ⅰ.傻瓜教程</h2><p>图片的上方边缘部分有路径地址，方便参考</p><p>1.下载 链接: <a href="https://pan.baidu.com/s/1n8q0NGHlTns717EehrIz9Q">https://pan.baidu.com/s/1n8q0NGHlTns717EehrIz9Q</a> 提取码: chou ，并解压</p><p>2.在桌面上找到原神启动器，右键单击，点击“打开文件所在的位置”</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20162904.png" alt="屏幕截图 2023-01-30 162904"></p><p>3.点开“Genshin Impact Game”文件夹</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20163003.png" alt="屏幕截图 2023-01-30 163003"></p><p>4.将第 1 步下载的文件夹中的这三个文件放入“Genshin Impact Game”文件夹中</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20163112.png" alt="屏幕截图 2023-01-30 163112"></p><p>5.点击“YuanShen_Data”文件夹</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20163135.png" alt="屏幕截图 2023-01-30 163135"></p><p>6.点击“Plugins”文件夹</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20163158.png" alt="屏幕截图 2023-01-30 163158"></p><p>7.将第 1 步下载的文件夹中的这个文件放入“Plugins”文件夹中</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20163432.png" alt="屏幕截图 2023-01-30 163432"></p><p>8.将“Genshin Impact Game”文件夹下的这三个文件快捷方式发送到桌面</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20180855.png" alt="屏幕截图 2023-01-30 180855"></p><p>9.在桌面上双击对应的文件即可启动对应服务器</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20170144.png" alt="屏幕截图 2023-01-30 170144"></p><h2 id="Ⅱ-原理"><a href="#Ⅱ-原理" class="headerlink" title="Ⅱ.原理"></a>Ⅱ.原理</h2><p>1.本程序是运用批处理实现的</p><p>2.代码解释</p><p>bat 批处理文件原理<br>使用“ren”命令对文件进行重命名，不会对游戏其他文件产生影响，右键文件编辑可查看和修改<br>例：ren（空格）源文件名（空格）改后文件名</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20162735.png" alt="屏幕截图 2023-01-30 162735"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20162800.png" alt="屏幕截图 2023-01-30 162800"></p><p>config.ini.b 文件中存放的是 b 服所需配置文件，而 Genshin Impact Game 文件夹中的 config.ini 的初始文件中存放的是官服所需配置文件，游戏需要读取名为 config.ini 的文件中的内容。</p><p>以 b 服启动器为例，启动器将 config.ini 文件改名为 config.ini.g，将 config.ini.b 文件改名为 config.ini，</p><p>由此把官服的配置文件改为 b 服的配置文件，游戏会读取到 config.ini 中的 b 服配置信息，从而打开 b 服渠道。</p><p>官服启动器原理亦是如此。</p><p>有旅行者可能要问了，连续点击两次同一个服务器的启动器，config.ini.b 或者是 config.ini.g 的文件内容岂不是要发生变化？</p><p>下面这张图片将会为你解开迷惑</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-30%20161151.png" alt="屏幕截图 2023-01-30 161151"></p><p>批处理时，如果存在与要输出的文件的文件名相同的文件，程序将不执行&#x2F;跳过该命令（上图的第一个指令）；</p><p>如果找不到目标文件，程序也将不执行&#x2F;跳过该命令（上图的第二个指令）。</p><p>从而无事发生，继续执行第三个指令：启动游戏。</p><p>由此可见，官服和 b 服用了同一个游戏本体，却通过 config.ini 文件来分配渠道，因此当两个游戏本体放在一起时会出现吞服的情况。</p><h1 id="二、电脑上现有-b-服原神（以-b-服为基础改造）"><a href="#二、电脑上现有-b-服原神（以-b-服为基础改造）" class="headerlink" title="二、电脑上现有 b 服原神（以 b 服为基础改造）"></a>二、电脑上现有 b 服原神（以 b 服为基础改造）</h1><p>本人太懒，没有实操以 b 服为基础改造的情况，请各位旅行者参考这位 b 站大佬的教程</p><p><a href="https://www.bilibili.com/read/cv14893226?spm_id_from=333.999.0.0">原神 PC 端 B 服官服一键切换方法 - 哔哩哔哩 (bilibili.com)</a></p><p>（这位大佬有教如何改变 bat 文件的图标哦）</p><p>我把图标放在下面了</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedQQ%E5%9B%BE%E7%89%8720230130170044.jpg" alt="QQ图片20230130170044"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedQQ%E5%9B%BE%E7%89%8720230130164306.jpg" alt="QQ图片20230130164306"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedzjhimgbedzjhimgbedf77dbb45e7ab9ea2052528b7379622eb52786664.png@100w_100h.ico" alt="img"></p><p>教程完。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>win11美化</title>
+      <link href="/2023/01/07/win11%E7%BE%8E%E5%8C%96/"/>
+      <url>/2023/01/07/win11%E7%BE%8E%E5%8C%96/</url>
+      
+        <content type="html"><![CDATA[<p>透明任务栏</p><p>在微软商店 Microsoft Store 下载 translucentTB</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-07%20131215.png" alt="屏幕截图 2023-01-07 131215"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-07%20131305.png" alt="屏幕截图 2023-01-07 131305"></p><p>win11 开发版本更新后，任务栏透明工具 translucentTB 突然不管用了，在 b 站网友的指引下，我找到了 github 的开发者教程下的评论。</p><p>简单概括来如下：</p><h1 id="法一："><a href="#法一：" class="headerlink" title="法一："></a>法一：</h1><h2 id="1-下载-ViVeTool-GUI"><a href="#1-下载-ViVeTool-GUI" class="headerlink" title="1.下载 ViVeTool GUI"></a>1.下载 ViVeTool GUI</h2><h2 id="2-点击左上角的框，选择-25236"><a href="#2-点击左上角的框，选择-25236" class="headerlink" title="2.点击左上角的框，选择 25236"></a>2.点击左上角的框，选择 25236<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-07%20130135.png" alt="屏幕截图 2023-01-07 130135"></h2><h2 id="3-点击-Manually-change-a-Feature-F12-，输入-26008830"><a href="#3-点击-Manually-change-a-Feature-F12-，输入-26008830" class="headerlink" title="3.点击 Manually change a Feature (F12)，输入 26008830"></a>3.点击 Manually change a Feature (F12)，输入 26008830<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-07%20130700.png" alt="屏幕截图 2023-01-07 130700"></h2><h2 id="4-点击右侧-Perforn-Action-点击-Deactivated-Feature"><a href="#4-点击右侧-Perforn-Action-点击-Deactivated-Feature" class="headerlink" title="4.点击右侧 Perforn Action ,点击 Deactivated Feature"></a>4.点击右侧 Perforn Action ,点击 Deactivated Feature<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-01-07%20130750.png" alt="屏幕截图 2023-01-07 130750"></h2><h2 id="5-关闭窗口，重启计算机。"><a href="#5-关闭窗口，重启计算机。" class="headerlink" title="5.关闭窗口，重启计算机。"></a>5.关闭窗口，重启计算机。</h2><p>—————————————————————————————————————————————</p><h1 id="2023-4-24-更新"><a href="#2023-4-24-更新" class="headerlink" title="2023.4.24 更新"></a>2023.4.24 更新</h1><h2 id="法一经测试在计算机重启后会失效，参考-b-站-up-的视频Translucent-TB-一键修复任务栏失效-无法透明-哔哩哔哩-bilibili-更新了使用-vivetool-的法二（法一是-vivetool-GUI）"><a href="#法一经测试在计算机重启后会失效，参考-b-站-up-的视频Translucent-TB-一键修复任务栏失效-无法透明-哔哩哔哩-bilibili-更新了使用-vivetool-的法二（法一是-vivetool-GUI）" class="headerlink" title="法一经测试在计算机重启后会失效，参考 b 站 up 的视频Translucent TB 一键修复任务栏失效,无法透明_哔哩哔哩_bilibili 更新了使用 vivetool 的法二（法一是 vivetool GUI）"></a>法一经测试在计算机重启后会失效，参考 b 站 up 的视频<a href="https://www.bilibili.com/video/BV1BT411Y7uc/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=0875a89ce3e551ffadbd073e593b6329">Translucent TB 一键修复任务栏失效,无法透明_哔哩哔哩_bilibili</a> 更新了使用 vivetool 的法二（法一是 vivetool GUI）</h2><h1 id="法二："><a href="#法二：" class="headerlink" title="法二："></a>法二：</h1><h2 id="1-下载-vivetoolReleases-·-thebookisclosed-x2F-ViVe-github-com-并解压"><a href="#1-下载-vivetoolReleases-·-thebookisclosed-x2F-ViVe-github-com-并解压" class="headerlink" title="1.下载 vivetoolReleases · thebookisclosed&#x2F;ViVe (github.com)并解压"></a>1.下载 vivetool<a href="https://github.com/thebookisclosed/ViVe/releases/">Releases · thebookisclosed&#x2F;ViVe (github.com)</a>并解压</h2><h2 id="2-用管理员身份运行-cmd"><a href="#2-用管理员身份运行-cmd" class="headerlink" title="2.用管理员身份运行 cmd"></a>2.用管理员身份运行 cmd</h2><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-04-24%20083123.png" alt="屏幕截图 2023-04-24 083123"></p><h2 id="3-在-cmd-中输入“cd-”（注意-cd-后有空格），再输入-vivetool-的文件位置，敲击-Enter"><a href="#3-在-cmd-中输入“cd-”（注意-cd-后有空格），再输入-vivetool-的文件位置，敲击-Enter" class="headerlink" title="3.在 cmd 中输入“cd ”（注意 cd 后有空格），再输入 vivetool 的文件位置，敲击 Enter"></a>3.在 cmd 中输入“cd ”（注意 cd 后有空格），再输入 vivetool 的文件位置，敲击 Enter</h2><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-04-24%20083254.png" alt="屏幕截图 2023-04-24 083254"></p><h2 id="4-输入“-ViVeTool-exe-x2F-disable-x2F-id-26008830-x2F-variant-2”（注意最开始有空格和“-”）"><a href="#4-输入“-ViVeTool-exe-x2F-disable-x2F-id-26008830-x2F-variant-2”（注意最开始有空格和“-”）" class="headerlink" title="4.输入“ .\ViVeTool.exe &#x2F;disable &#x2F;id:26008830 &#x2F;variant:2”（注意最开始有空格和“.”）"></a>4.输入“ .\ViVeTool.exe &#x2F;disable &#x2F;id:26008830 &#x2F;variant:2”（注意最开始有空格和“.”）</h2><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-04-24%20083448.png" alt="屏幕截图 2023-04-24 083448"></p><h2 id="5-重启计算机"><a href="#5-重启计算机" class="headerlink" title="5.重启计算机"></a>5.重启计算机</h2><h1 id="2023-6-30-更新"><a href="#2023-6-30-更新" class="headerlink" title="2023.6.30 更新"></a>2023.6.30 更新</h1><p>本次更新是因为傻卵微软今天的更新把法二也搞失效了。。。</p><h1 id="法三："><a href="#法三：" class="headerlink" title="法三："></a>法三：</h1><h2 id="1-下载-start11-链接：https-pan-baidu-com-s-18b6ZdecN18k-qCJ6Z1qkpg-提取码：chou-并安装"><a href="#1-下载-start11-链接：https-pan-baidu-com-s-18b6ZdecN18k-qCJ6Z1qkpg-提取码：chou-并安装" class="headerlink" title="1.下载 start11 链接：https://pan.baidu.com/s/18b6ZdecN18k_qCJ6Z1qkpg 提取码：chou 并安装"></a>1.下载 start11 链接：<a href="https://pan.baidu.com/s/18b6ZdecN18k_qCJ6Z1qkpg">https://pan.baidu.com/s/18b6ZdecN18k_qCJ6Z1qkpg</a> 提取码：chou 并安装</h2><h2 id="2-打开-start11，进入左侧的“任务栏”"><a href="#2-打开-start11，进入左侧的“任务栏”" class="headerlink" title="2.打开 start11，进入左侧的“任务栏”"></a>2.打开 start11，进入左侧的“任务栏”<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-06-30%20103922.png" alt="屏幕截图 2023-06-30 103922"></h2><h2 id="3-点击“任务栏模糊、透明度及颜色”"><a href="#3-点击“任务栏模糊、透明度及颜色”" class="headerlink" title="3.点击“任务栏模糊、透明度及颜色”"></a>3.点击“任务栏模糊、透明度及颜色”<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-06-30%20104340.png" alt="屏幕截图 2023-06-30 104340"></h2><h2 id="4-点击“调节任务栏透明度”旁的“设置”，并调节不透明度为-0"><a href="#4-点击“调节任务栏透明度”旁的“设置”，并调节不透明度为-0" class="headerlink" title="4.点击“调节任务栏透明度”旁的“设置”，并调节不透明度为 0%"></a>4.点击“调节任务栏透明度”旁的“设置”，并调节不透明度为 0%<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-06-30%20104457.png" alt="屏幕截图 2023-06-30 104457"></h2><h2 id="5-完成"><a href="#5-完成" class="headerlink" title="5.完成"></a>5.完成</h2><h1 id="2023-7-27-更新"><a href="#2023-7-27-更新" class="headerlink" title="2023.7.27 更新"></a>2023.7.27 更新</h1><p>更新了一些美化&#x2F;实用工具</p><h2 id="1-窗口最大化时任务栏自动隐藏，去除了透明任务栏带来的割裂感"><a href="#1-窗口最大化时任务栏自动隐藏，去除了透明任务栏带来的割裂感" class="headerlink" title="1.窗口最大化时任务栏自动隐藏，去除了透明任务栏带来的割裂感"></a>1.窗口最大化时任务栏自动隐藏，去除了透明任务栏带来的割裂感</h2><p>链接：<a href="https://pan.baidu.com/s/1zlnZnIARw9WvVvdSaMB1Cw">https://pan.baidu.com/s/1zlnZnIARw9WvVvdSaMB1Cw</a> 提取码：chou</p><h2 id="2-将某一窗口固定于屏幕上"><a href="#2-将某一窗口固定于屏幕上" class="headerlink" title="2.将某一窗口固定于屏幕上"></a>2.将某一窗口固定于屏幕上</h2><p>链接：<a href="https://pan.baidu.com/s/1Q7XompuIZsRXvSfyRh9t_w">https://pan.baidu.com/s/1Q7XompuIZsRXvSfyRh9t_w</a> 提取码：chou</p><h1 id="2023-11-12-更新"><a href="#2023-11-12-更新" class="headerlink" title="2023.11.12 更新"></a>2023.11.12 更新</h1><p>win11 开始菜单“推荐的项目”无法彻底关闭，解决方法如下</p><h2 id="1-下载下方文件"><a href="#1-下载下方文件" class="headerlink" title="1.下载下方文件"></a>1.下载下方文件</h2><p>链接：<a href="https://pan.baidu.com/s/1qI5Lc7qAKkBiUwW08w_bOQ?pwd=chou">https://pan.baidu.com/s/1qI5Lc7qAKkBiUwW08w_bOQ?pwd=chou</a><br>提取码：chou</p><h2 id="2-把-ep-setup-exe-文件拖入-c-盘中的-Desktop"><a href="#2-把-ep-setup-exe-文件拖入-c-盘中的-Desktop" class="headerlink" title="2.把 ep_setup.exe 文件拖入 c 盘中的 Desktop"></a>2.把 ep_setup.exe 文件拖入 c 盘中的 Desktop</h2><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedimage-20231112115238529.png" alt="image-20231112115238529"></p><h2 id="3-右键单击“开始菜单推荐管理脚本-bat”，使用管理员权限运行，并按提示输入，回车即可"><a href="#3-右键单击“开始菜单推荐管理脚本-bat”，使用管理员权限运行，并按提示输入，回车即可" class="headerlink" title="3.右键单击“开始菜单推荐管理脚本.bat”，使用管理员权限运行，并按提示输入，回车即可"></a>3.右键单击“开始菜单推荐管理脚本.bat”，使用管理员权限运行，并按提示输入，回车即可</h2><p>该文件运行完即可删除，无影响</p><p>脚本来源：</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedimage-20231112115735451.png" alt="image-20231112115735451"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> win11 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数电重点知识</title>
+      <link href="/2022/10/17/%E6%95%B0%E7%94%B5%E9%87%8D%E7%82%B9%E7%9F%A5%E8%AF%86/"/>
+      <url>/2022/10/17/%E6%95%B0%E7%94%B5%E9%87%8D%E7%82%B9%E7%9F%A5%E8%AF%86/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一些数电的难点重点"><a href="#一些数电的难点重点" class="headerlink" title="一些数电的难点重点"></a>一些数电的难点重点</h1><p>一：</p><p>思考题：若将 TTL 异或门（输入端为 A、B）当作反相器使用，则 A、B 端应如何连接？</p><p>A 或 B 接 1 或悬空</p><p>解析：异或门，即相异为真，相同为假。若想要输出与输入相异，则两个输入之一应当为 1（TTL 门电路输入的一端悬空，即无输入时默认为 1）。试想一下，若 A 输入固定为 1，另一端 B 为 0 时，两者相异，输出 1。输出与输入 B 相反。当 B 为 1 时，A 与 B 相同，输出 0。输出与输入 B 相反。</p><p>下图还有同相器（应该这么叫，即输出与输入相同）</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed0CD9416EFB1F5B91F9530CB788773ED7.jpg" alt="img"></p><p>二：</p><p>全加器。以下为全加器电路图</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed19261C5EC303E8638A920A825D7EA8C8.jpg"></p><p>以下为该电路图的逻辑式<img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedE1536DE61ECB424A0E6500AFC567538B.jpg" alt="img"></p><p>以下为对应的真值表</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed41B959FDC99A2B34066CBE66C2CB2A62.png" alt="img"></p><p>现在对该逻辑电路进行功能分析：该逻辑电路为全加器，可以看作对一个<font color="orange">二进制位</font>的输出判断，A 为加数，B 为被加数，CI 为相邻的低位进过来的数，S 为本位的和，CO 为向相邻的高位进的数。</p><p>以最后一行为例，A&#x3D;1,B&#x3D;1,CI&#x3D;1，先将被加数与加数求和，和为 0（此时已向相邻的高位进了 1，故 CO&#x3D;1）加上相邻的低位进过来的数 CI&#x3D;1，此时该二进制位的数为 1, 即本位的和 S&#x3D;1。</p><p>再以倒数第二行为例，A&#x3D;1,B&#x3D;1,CI&#x3D;0，先将被加数与加数求和，和为 0（此时已向相邻的高位进了 1，故 CO&#x3D;1）加上相邻的低位进过来的数 CI&#x3D;0，此时该二进制位的数为 1, 即本位的和 S&#x3D;0。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 数电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>递归（栈）</title>
+      <link href="/2022/10/09/%E9%80%92%E5%BD%92/"/>
+      <url>/2022/10/09/%E9%80%92%E5%BD%92/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一道递归题目"><a href="#一道递归题目" class="headerlink" title="一道递归题目"></a>一道递归题目</h1><p>题目：请用递归的方法输出。</p><p>实例：输入：12345</p><p>​ 输出：1 2 3 4 5</p><p>这是上午 c++课上老师出的题。一想到递归，我整个人就蒙圈了。原来用循环就能轻松解决的，用递归好像很难在脑海中模拟。课上讲了栈的知识，那是不是可以用栈的知识解决呢？</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbedIMG_20221009_143100.jpg"></p><p>以上是用栈表示本题递归思路。</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">splitNum</span><span class="params">(<span class="type">unsigned</span> <span class="type">int</span> n)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(n&gt;<span class="number">9</span>)<span class="comment">//只要不是一位数就执行</span></span><br><span class="line">        <span class="built_in">splitNum</span>(n/<span class="number">10</span>);</span><br><span class="line">    cout&lt;&lt;n%<span class="number">10</span>&lt;&lt;<span class="string">&quot; &quot;</span>;<span class="comment">//当是一位数时结束递归，开始一层一层向上继续本行的取末位</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">unsigned</span> n;</span><br><span class="line">    cin&gt;&gt;n;</span><br><span class="line">    <span class="built_in">splitNum</span>(n);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>本题难理解的点就是递归时没有返回值，而是在递归处中断，当递归结束时才继续每一层的后续操作。</p><p>要多复习啊</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 递归 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>introduction</title>
+      <link href="/2022/10/05/introduction/"/>
+      <url>/2022/10/05/introduction/</url>
+      
+        <content type="html"><![CDATA[<h1 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h1><p>本人 2003 年出生，现在河南农业大学（HAU）读本科，目前在读大二。大一专业是计算机，奈何时运不济，大二被分到了人工智能。由于是个半吊子大学生，本蒟蒻的编程也仅算刚入门。</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed1.jpg"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed3.jpg"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed2.jpg"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed4.jpg"></p><p>以上几张图片是本人在校园内（外）用手机拍的</p><p>聊点别的。</p><p>这是我的<a href="https://space.bilibili.com/229831765?spm_id_from=333.1007.0.0">b 站空间</a></p><p>可以看到，最近我发的视频全是与原神相关。没错，我是一个原神玩家。你们叫我 op 也好，叫我原 u 也罢，</p><p>总之我是一个正常且理智的原神玩家。我的 uid 是 205772887。本人可以提供帮助。</p><p>关于我的未来打算：</p><p>我目前还处于本科阶段，处于一个双非一本（在省外招生甚至可能是二本），考研肯定是必要的。众所周知，河南是一个人口大省，伴随其后的另一个 tag 是内卷大省。在省内高中拼死拼活仅仅上了这个不尽人意的一本，考研也是一样，全国统考，统一招生，身为内卷大省的河南也肯定不甘示弱。在省内的院校中，郑州大学（211）毫无疑问是报考人数最多的学校，考研难度最大。但是考研的目的是向更远的方向进修，所报院校水平怎么说也要不低于本科院校，所以在省内的最低的考研目标剩下河南大学、河南农业大学、河南理工大学、河南工业大学。关于考研的方面我也只了解了一点，现阶段的任务主要还是修好每一门课。</p><p>工作方面，本人更希望进入一个稳定的工作岗位。目前的计划是考研以后考公。考公又引出了一个问题：需要是党员才能更有竞争力。不巧的是，我的本科大学对党员的评选十分严苛，需要经过入党积极分子，预备党员的阶段。去年大一没有被选上入党积极分子，今年仍需努力。第二个方案是进入公司当一个码农。当然这种生活注定是无聊的，还随时有被毕业的风险。</p><p>所以目前还是努力学习安心考研吧。</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed8EF368E3EC78ED08D221C0F682CAA9A3.jpg"></p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed2816DDD95964C1CA98212551E9C7A4C5.jpg"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 前言 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test</title>
+      <link href="/2022/10/04/test/"/>
+      <url>/2022/10/04/test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><p>这是一篇<strong>测试</strong></p><p>这是我的<a href="https://space.bilibili.com/229831765?spm_id_from=333.1007.0.0">bilibili 空间</a></p><p>666666666</p><p><img src="https://charerchou-imgbed.oss-cn-beijing.aliyuncs.com/CharerChou-imgBed/zjhimgbed1.jpg"></p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    cout&lt;&lt;hello&lt;&lt;endl;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202105%2F03%2F20210503120135_3451d.thumb.1000_0.jpg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1667476841&t=22a878def53d76825cfff974b2843d25"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
