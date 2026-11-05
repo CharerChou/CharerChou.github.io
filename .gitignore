@@ -11,3 +11,6 @@ _multiconfig.yml
 bed/
 .vs/
 *.lnk
+
+# Obsidian 本地配置：插件里存着 GitHub Token，绝对不能提交
+.obsidian/
