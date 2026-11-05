@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+
+# 本地图片镜像 / 编辑器 / 快捷方式，没必要进仓库
+bed/
+.vs/
+*.lnk
